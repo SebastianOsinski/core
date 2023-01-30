@@ -1,0 +1,22 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Device is already configured"
+        },
+        "error": {
+            "cannot_connect": "Failed to connect",
+            "invalid_auth": "Invalid authentication",
+            "unknown": "Unexpected error"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "serial_port": "Serial port",
+                    "remote_press_duration": "Remote press duration",
+                    "cover_movement_duration": "Door movement duration",
+                    "cover_auto_close_delay": "Door auto-close delay"
+                }
+            }
+        }
+    }
+}

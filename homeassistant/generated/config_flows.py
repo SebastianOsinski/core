@@ -143,6 +143,7 @@ FLOWS = {
         "fritzbox_callmonitor",
         "fronius",
         "fully_kiosk",
+        "garage_remote_relay",
         "garages_amsterdam",
         "gdacs",
         "generic",

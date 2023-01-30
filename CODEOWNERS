@@ -399,6 +399,8 @@ build.json @home-assistant/supervisor
 /homeassistant/components/frontier_silicon/ @wlcrs
 /homeassistant/components/fully_kiosk/ @cgarwood
 /tests/components/fully_kiosk/ @cgarwood
+/homeassistant/components/garage_remote_relay/ @SebastianOsinski
+/tests/components/garage_remote_relay/ @SebastianOsinski
 /homeassistant/components/garages_amsterdam/ @klaasnicolaas
 /tests/components/garages_amsterdam/ @klaasnicolaas
 /homeassistant/components/gdacs/ @exxamalte

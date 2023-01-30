@@ -1827,6 +1827,12 @@
       "config_flow": false,
       "iot_class": "cloud_polling"
     },
+    "garage_remote_relay": {
+      "name": "Garage Remote Relay",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "assumed_state"
+    },
     "garages_amsterdam": {
       "integration_type": "hub",
       "config_flow": true,
